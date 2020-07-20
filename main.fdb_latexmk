@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1595232747 "/Users/hcooksley/Code/understanding-analysis/main.tex" "/Users/hcooksley/Code/understanding-analysis/main.pdf" "main" 1595232748
-  "/Users/hcooksley/Code/understanding-analysis/main.aux" 1595232747 370 500b181e07e2492c9e7fdf75045096d3 ""
-  "/Users/hcooksley/Code/understanding-analysis/main.tex" 1595232747 2334 a63e59c6d9278177b42b08f1e5098296 ""
+["pdflatex"] 1595232992 "/Users/hcooksley/Code/understanding-analysis/main.tex" "/Users/hcooksley/Code/understanding-analysis/main.pdf" "main" 1595232992
+  "/Users/hcooksley/Code/understanding-analysis/main.aux" 1595232992 370 500b181e07e2492c9e7fdf75045096d3 ""
+  "/Users/hcooksley/Code/understanding-analysis/main.tex" 1595232991 2350 d9dbd5daa4eb786d32a4592f7d21126c ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -53,13 +53,13 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1594721512 2432461 63de8aaa5e83b838f3b2d5ebfd91b653 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "main.aux" 1595232747 370 500b181e07e2492c9e7fdf75045096d3 "pdflatex"
-  "main.tex" 1595232747 2334 a63e59c6d9278177b42b08f1e5098296 ""
-  "main.toc" 1595232747 152 d1951aa37648b24be1a8ab72e6b4aefa "pdflatex"
+  "main.aux" 1595232992 370 500b181e07e2492c9e7fdf75045096d3 "pdflatex"
+  "main.tex" 1595232991 2350 d9dbd5daa4eb786d32a4592f7d21126c ""
+  "main.toc" 1595232992 152 d1951aa37648b24be1a8ab72e6b4aefa "pdflatex"
   (generated)
+  "/Users/hcooksley/Code/understanding-analysis/main.pdf"
   "main.pdf"
+  "main.toc"
   "main.log"
   "/Users/hcooksley/Code/understanding-analysis/main.log"
-  "main.toc"
-  "/Users/hcooksley/Code/understanding-analysis/main.pdf"
   "main.aux"
