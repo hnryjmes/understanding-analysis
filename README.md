@@ -1,3 +1,3 @@
 # understanding-analysis
 
-Notes on Understanding Analysis by Stephen Abbott
+Understanding Analysis by Stephen Abbott, Notes by Henry Cooksley
