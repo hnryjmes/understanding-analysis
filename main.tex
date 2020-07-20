@@ -1,0 +1,43 @@
+\documentclass{report}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\title{Understanding Analysis}
+\author{Stephen Abbott}
+\date{\today}
+
+\begin{document}
+
+% Notes on Understanding Analysis by Henry Cooksley
+
+\maketitle
+
+\tableofcontents
+
+\chapter{The Real Numbers}
+
+\section{Discussion: The Irrationality of $\sqrt{2}$}
+
+\textbf{Theorem 1.1.1.} \emph{There is no rational number whose square is 2.}
+\\
+\emph{Proof.} A rational number is any number that can be expressed in the form $p/q$, where $p$ and $q$ are integers. Thus, what the theorem asserts is that no matter how $p$ and $q$ are chosen, it is never the case that $(p/q)^2 = 2$. The line of attack is indirect, using a type of argument referred to as a proof by contradiction. The idea is to assume that there \emph{is} a rational number whose square is 2 and then proceed along logical lines until we reach a conclusion that is unacceptable. At this point, we will be forced to retrace our steps and reject the erroneous assumption that some rational number squared is equal to 2. In short, we will prove that the theorem is true by demonstrating that it cannot be false.
+
+And so assume, for contradiction, that there exist integers $p$ and $q$ satisfying
+
+\begin{equation}\label{1.1}
+\left(\frac{p}{q}\right)^2 = 2.
+\end{equation}
+
+We may also assume that $p$ and $q$ have no common factor, because, if they had one, we could simply cancel it out and rewrite the fraction in lowest terms. Now, equation (1.1) implies
+
+\begin{equation}\label{eq:2}
+p^2 = 2q^2.
+\end{equation}
+
+From this, we can see that the integer $p^2$ is an even number (it is divisible by 2), and hence $p$ must be even as well because the square of an odd number is odd. This allows us to write $p = 2r$, where $r$ is also an integer. If we substitute $2r$ for $p$ in equation (1.2), then a little algebra yields the relationship
+
+$$2r^2 = q^2.$$
+
+But now the absurdity is at hand. This last equation implies that $q^2$ is even, and hence $q$ must also be even. Thus, we have shown that $p$ and $q$ are both even (i.e., divisible by 2) when they were originally assumed to have no common factor. From this logical impasse, we can only conclude that equation (1.2) \emph{cannot} hold for any integers $p$ and $q$, and thus the theorem is proved. $\hfill\square$
+
+\end{document}
