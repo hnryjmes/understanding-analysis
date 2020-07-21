@@ -1,2 +1,9 @@
 \contentsline {chapter}{\numberline {1}The Real Numbers}{2}%
 \contentsline {section}{\numberline {1.1}Discussion: The Irrationality of $\sqrt {2}$}{2}%
+\contentsline {section}{\numberline {1.2}Some Preliminaries}{3}%
+\contentsline {section}{\numberline {1.3}The Axiom of Completeness}{3}%
+\contentsline {section}{\numberline {1.4}Consequences of Completeness}{3}%
+\contentsline {section}{\numberline {1.5}Cardinality}{3}%
+\contentsline {section}{\numberline {1.6}Cantor's Theorem}{3}%
+\contentsline {section}{\numberline {1.7}Epilogue}{3}%
+\contentsline {chapter}{\numberline {2}Sequences and Series}{4}%
